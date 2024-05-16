@@ -12,3 +12,5 @@
 <img src="/path/to/image.jpg" width="50" height="50">
 ![Alt text](/assets/Image6.jpeg)
 <img src="/path/to/image.jpg" width="50" height="50">
+
+Your feedback could mean alot.
